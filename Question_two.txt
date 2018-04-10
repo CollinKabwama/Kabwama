@@ -1,0 +1,2 @@
+float do_it(char ,char ,char);
+void print_a_number(int);
