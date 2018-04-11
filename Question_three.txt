@@ -1,0 +1,17 @@
+long a[50];   //a is array name
+
+a[49]=123.456;
+
+x=100
+
+ctr=11
+
+counter=1;
+while(counter<=100){
+  counter+=3;
+}
+
+
+
+
+
